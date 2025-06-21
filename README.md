@@ -1,3 +1,4 @@
+# VGG16
 y_pred = np.argmax(model.predict(x_test), axis=1)
 y_true = np.argmax(y_test, axis=1)
 
